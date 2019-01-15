@@ -1,0 +1,11 @@
+var radius=5;
+undefined
+var circumference = Math.PI * 2*radius;
+undefined
+console.log("The circumference is " + circumference);
+VM426:1 The circumference is 31.41592653589793
+undefined
+var area = Math.PI * radius*radius;
+undefined
+console.log("The area is " + area);
+VM432:1 The area is 78.53981633974483
