@@ -1,0 +1,10 @@
+var curentAge=26;
+undefined
+var maxAge=50;
+undefined
+var estimateAmount=5;
+undefined
+var total= 5*50;
+undefined
+console.log("ypu will need"+total+"to last until the ripe old oge of "+maxAge);
+VM207:1 ypu will need250to last until the ripe old oge of 50
