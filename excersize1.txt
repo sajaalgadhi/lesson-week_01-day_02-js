@@ -1,0 +1,9 @@
+var numOfChildren=3;
+undefined
+var PartnerName="saja";
+undefined
+var Glocation="Dubai";
+undefined
+var JobTitle="engneer";
+undefined
+console.log("you will be "+JobTitle+"Married to "+ PartnerName + "With" + numOfChildren+"kids.");
