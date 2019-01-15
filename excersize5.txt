@@ -1,0 +1,13 @@
+var celsius=20;
+undefined
+var fahrenheit = 60;
+undefined
+console.log(celsius+"°C "+fahrenheit+" °F");
+VM552:1 20°C 60 °F
+undefined
+var fahrenheit = 77;
+undefined
+var FtoC = (( fahrenheit - 32)*5)/9;
+undefined
+console.log(celsius+" °F "+fahrenheit+" °C ");
+VM634:1 20 °F 77 °C 
