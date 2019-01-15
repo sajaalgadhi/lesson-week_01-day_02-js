@@ -1,0 +1,8 @@
+var currentYear=2019;
+undefined
+var birthYear=1988;
+undefined
+var age= currentYear - birthYear;
+undefined
+console.log("they are either" + age +"or" + ( age-1 ));
+VM379:1 they are either31or30
